@@ -17,3 +17,12 @@ _______________________________________
 ![2](https://github.com/user-attachments/assets/d480cf4b-8175-4e83-a1e6-ad052d2b156a)
 ![3](https://github.com/user-attachments/assets/a65c20bd-1c6c-4579-ac70-5fd41855fc0e)
 
+**Goal**
+_______________________________________
+
+Selain ditujukan untuk mempelajari Workflow Automation sambil ngopi pas buka puasa hahaha, POV : 
+1. Respons lebih cepat ke calon pelanggan tanpa ada yang terlewat.
+2. Tugas follow-up otomatis untuk tim sales.
+3. Jadwal meeting otomatis di Google Calendar.
+4. Notifikasi Slack untuk tim sales di setiap tahap.
+5. Email ucapan selamat dan permintaan review saat pelanggan membeli langganan
